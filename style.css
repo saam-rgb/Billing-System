@@ -1,3 +1,11 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./img/s2.png");
+  color: #fff;
+  background-position: center;
+  background-size: cover;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;

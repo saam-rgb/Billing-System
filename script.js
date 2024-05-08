@@ -37,7 +37,7 @@ function updateTotal() {
     total += rowTotal;
   }
 
-  totalAmount.textContent = `Total Amount: $${total.toFixed(2)}`;
+  totalAmount.textContent = `Total Amount: ₹${total.toFixed(2)}`;
 }
 
 function clearForm() {
